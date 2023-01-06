@@ -59,3 +59,59 @@
     width: 160px;
     height: 56px;
 }
+
+/* donate money section styles */
+.amount-head {
+    font-size: 45px;
+    font-weight: 700;
+    color: #121212;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 130px;
+
+
+}
+
+.amount {
+    text-align: center;
+}
+
+.amount-des {
+    font-size: 18px;
+    color: #707070;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.money-donate {
+    display: flex;
+    gap: 22px;
+    margin: 50px 336px;
+}
+
+.money-value {
+    background: #FAFAFA;
+    border-radius: 5px;
+    padding: 44px 25px;
+   
+}
+
+.value {
+    font-weight: 700;
+    font-size: 30px;
+    color: #707070;
+   
+}
+.other-amount{
+   color: #B3B3B3;
+   
+
+}
+hr{
+    color: #DADADA;
+    margin: 9.5px 337px;
+    margin-bottom: 30px;
+}
